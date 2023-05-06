@@ -6,7 +6,7 @@
   
 <p align="justify">This is designed to be like a (very) <strong>basic framework on which everyone can build a personal core-book</strong>, for specific groups or games. Each "rule" is supposed to be considered in context, though they are also supposed to be flexible enough, to help the player not only understand, but also enjoy the experience of the dynamics of the TTRPGs.</p>
   
-<p align="justify">Remember... This is a game... We are here to have fun!"</p>
+<p align="justify">Remember... This is a game... We are here to have fun!</p>
 
 ***
 
