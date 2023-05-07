@@ -1,3 +1,32 @@
+# **MECHANICS**
+
+><p align="justify">All the adventures that we live through the TTRPG consist of three basic elements, exploration, social interaction and combat. Next we will explain the dynamics around these situations and how to "<em>solve</em>" them. The system was thinking to be modular, this mean, each part (or <em><strong>module</strong></em>) can be used separly, or combined with others, without the need of use everyone of them.</p>
+
+**Why?**
+
+<p align="justify">Easy, because not every game need the same things, or want to tell the same kind of adventure. Maybe there is a GM that comes up with a lot of story and characters, with a lot of social interaction, but no combat. Or can happened that the group may not care about factions, religions, neither the background of them self, and preferring to explore a lot of dungeons, kill a lot of monster, and collect a lot of weapons and items.</p>
+
+**Also...**
+
+<p align="justify">You will see on the character sheet model a clear division between modules and, accord to my criteria, a descending order from "<em>more important</em>" to "<em>not so relevant</em>" ones. Can this be changed? For sure! Just take the ones you need/prefer. And if you have enough knowledge (<em>ambition?</em>), can also modified the <a href="/aux/CharacterSheet-v.4.svg">sheet</a>.</p>
+
+<details>
+<summary>:game_die: INDEX:</summary>
+- [Why markdown?](#why-markdown)
+- [Markdown basics](#markdown-basics)
+- [Advanced Formatting tips](#advanced-formatting-tips)
+  - [`left` alignment](#left-alignment)
+  - [`right` alignment](#right-alignment)
+  - [`center` alignment example](#center-alignment-example)
+  - [`collapse` Sections](#collapse-sections)
+  - [`additional links`](#additional-links)
+  - [Badges](#badges)
+- [Useful packages](#useful-packages)
+- [Useful utilities](#useful-utilities)
+</details>
+
+##*
+
 ***<ins>Advantage / Disvantage</ins>***
 
 > Depend of the action the player want to do, respect from the situation, three cases can be:
