@@ -15,4 +15,4 @@
 >
 >This system was developed with a traditional-fantasy context In mind, but can be adapted to play in any other lore you prefer, from space wars, to western thrillers, or hunted mansions. Really, i mean, everything is meant to be easily changed, from modules to tables[^*], take the best of it, and put the best of yourself, only then will get the best results.
 
-[^*]: You can also find the files of every table or sheet in open format.
+[^*]: You can also find the files of every table or sheet on [ Tables ](tables.md) *(open format is provided)*.
