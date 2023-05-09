@@ -11,7 +11,7 @@
 
 ***
 
-**ORQS is a lightweight rules system *to get started* with TTRPG games.**
+**ORQS is a rules-lite system *to get started* with TTRPG games.**
 
 <p align="justify">For many players this system will be un-challenging due to its simplicity, if you are one of those who already know and play a more complex system, but want try a new approach or have light-fun with neewby friends, you may as well find a place with us.</p>
   
