@@ -4,10 +4,10 @@
 
 <p align="center"></p>
 
-![](https://img.shields.io/badge/license-CC--BY--SA--4-blue)
-![](https://img.shields.io/badge/proyect-TTRPG%20System-blue)
-![](https://img.shields.io/badge/dice-2d6-blue)
-![](https://img.shields.io/badge/status-complete-succes)
+![](https://img.shields.io/badge/Proyect-TTRPG%20-blue)
+![](https://img.shields.io/badge/System-2d6-blue)
+![](https://img.shields.io/badge/License-CC--BY--SA--4-blue)
+![](https://img.shields.io/badge/Status-complete-success?style=plastic)
 
 ***
 
