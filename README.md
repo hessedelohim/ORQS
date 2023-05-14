@@ -30,7 +30,7 @@ Here you will find all the content created for ORQS:
 
 :black_small_square: WHY? ([ Description ](description.md))
 
-:black_small_square: HOW? ([ Mechanics ](mechanics.md))
+:black_small_square: HOW? ([ Mechanics ](mechanics.md)) ([ *short version* ](summary.md))
 
 :black_small_square: WITH? ([ Tables ](tables.md))
 
