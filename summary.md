@@ -56,7 +56,15 @@ All these kind of considerations can be proposed by both the players as well the
 
 ## FAVOR POINTS
 
-Every time a player wants to change his destiny, he can make use of a **favor point** (FP). This will imply, as determined by the storyteller, a re-roll of one dice, of both, or a guaranteed success. The PC will starts with 3 FP, and can earn one more accomplishing a objective that get it closer to your goal (*according to the storyteller's criteria*).
+On certain occasions, one of the following cases may occur:
+
+- The player wants to change his destiny (*ex. a bad roll to determine the stats*).
+- The PC proposes an action that is considered extremely difficult or risky (***Heroic Action***).
+- The party proposes an action that is considered extremely difficult or risky and everyone needs to be involved (***Epic Action***).
+
+To solve it the players can choose to spend one of their **favor point** (FP), this will imply (*as the storyteller determined*), a re-roll of one dice, of both, or a guaranteed success. For Epic Action, everyone need to spend 1 FP.
+
+> The PC will starts with 3 FP, and can earn one more accomplishing a objective that get it closer to the goal (*according to the storyteller's criteria*).
 
 # COMBAT & HEALTH
 
