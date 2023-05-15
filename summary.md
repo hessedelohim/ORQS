@@ -70,12 +70,16 @@ To solve it the players can choose to spend one of their **favor point** (FP), t
 
 Every time an attack (*from the PC or an enemy*) achieves a success, it will generate a Damage Point (**DP**) on the opponent's body part. Each part can receive up to 3 hits, and each phase will generates the following effects:
 
-- **1 DP**: The PC is slightly wound, it can be taken care of with basic ability or equipment.
-- **2 DP**: The PC is seriously hurt, will need professional attention or magic to be healed (*can generate disadvantage*).
-- **3 DP**: The PC is badly hurt, the storyteller must designate a **injured** and its consequence (*this can be a conditioner too*).
+- **1 DP**: The PC is slightly wound, should rest in a safe place (*or in wilderness, make use of basic ability or equip*).
+- **2 DP**: The PC is seriously hurt, only can be healed with basic ability or equipment (*can generate disadvantage*).
+- **3 DP**: The PC is badly hurt, will need professional attention or magic to be healed (*generate a injury and disadvantage*). 
 - **4 DP**: Depending on the part, the  PC will lose the limb, or become unconscious (*in thorax*), or die (*in head*).
 
-**NOTE:** *To restore someone from the state of unconsciousness, someone must obtain a success (10 or more in the **CTV**) and it will be the only action during their turn.* *The reanimated one will get an additional **injured**. After get 6 injures, the PC die permanently.*
+>**NOTE:** *To restore someone from the state of unconsciousness, someone must obtain a success (10 or more in the **CTV**) and it will be the only action during their turn.*
+
+**INJURIES**
+
+When a body part get the third hit, the storyteller must designate a **injury** and its consequence (*this can be a **conditioner** too*). After being reanimated, the PC also will get an additional **injury**, past 6 injures, die permanently.
 
 ## **BLESSINGS & CURSES**
 
