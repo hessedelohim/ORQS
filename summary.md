@@ -11,12 +11,18 @@ The system was thought to be modular, that is, each part (*or module*) can be us
 Each player will create a character defining the following information:
 
 **NAME**: This is very important (*or maybe not...*), player and character are not supposed to necessarily share a name.
+
 **RACE**: To indicate the origins of the character, it can also be useful to generate some background.
+
 **PROFESSION**: Was the PC a hard worker? Or maybe a bounty hunter? Or maybe he really wasn't doing anything with his life.
+
 **VIRTUE**: Something the PC stands out with particularly efficacious or quality. Generate the ***advantage*** status.
+
 **WEAKNESS**: Very similar to a virtue, but just in a negative way (*generate the **disadvantage** status*).
+
 **BACKGROUND**: It is the general knowledge of the PC, for example origin, culture, family, education, work experience.
-**GOAL**: What the PC want most and what fight for. Their decisions and actions tend to this,
+
+**GOAL**: What the PC want most and what fight for. Their decisions and actions tend to this.
 
 > The player can write just a few words or numbers on the PC sheet and make a better description in the side notes.
 
