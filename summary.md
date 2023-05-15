@@ -75,7 +75,7 @@ Every time an attack (*from the PC or an enemy*) achieves a success, it will gen
 - **3 DP**: The PC is badly hurt, will need professional attention or magic to be healed (*generate a injury and disadvantage*). 
 - **4 DP**: Depending on the part, the  PC will lose the limb, or become unconscious (*in thorax*), or die (*in head*).
 
->**NOTE:** *To restore someone from the state of unconsciousness, someone must obtain a success (10 or more in the **CTV**) and it will be the only action during their turn.*
+>*To restore someone from the state of unconsciousness, someone must obtain a success (10 or more in the **CTV**) and it will be the only action during their turn.*
 
 **INJURIES**
 
