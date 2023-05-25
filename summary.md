@@ -44,6 +44,8 @@ Every time there is a possibility of failure, the action will be checked by a di
 | 10-11 | SUCCESS | Achieve its purpose |
 | 12 *(o more)* | SUCCESS + | Achieve its purpose and gets an extra benefit |
 
+>**Note**: The extra benefits can be many things, from finding a strange item, getting more information than expected, or generating two DP in combat.
+
 ## **CONDITIONERS**
 
 Depend of the action the player want to do, respect from the situation, the player will modify the Roll Total Value (**RTV)** with:
