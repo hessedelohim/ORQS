@@ -4,7 +4,7 @@ ORQS is a rules-lite system to get started with TTRPG games. This is designed to
 
 The system was thought to be modular, that is, each part (*or module*) can be used separately, or combined with others, without the need to use all of them. You will see in the character sheet template a clear division between modules and, according to my criteria, a descending order from the "*most important*" to the "*not so relevant*". Can this be changed? Safely! Just take the ones you need/prefer.
 
-> *NOTE: This summary contemplates that the players make use of all the modules.*
+> **Note**: *This summary contemplates that the players make use of all the modules.*
 
 # CHARACTER CREATION
 
@@ -44,7 +44,7 @@ Every time there is a possibility of failure, the action will be checked by a di
 | 10-11 | SUCCESS | Achieve its purpose |
 | 12 *(o more)* | SUCCESS + | Achieve its purpose and gets an extra benefit |
 
->**Note**: The extra benefits can be many things, from finding a strange item, getting more information than expected, or generating two DP in combat.
+>*The **extra benefits** can be many things, from finding a strange item, getting more information than expected, or generating two DP in combat.*
 
 ## **CONDITIONERS**
 
