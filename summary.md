@@ -26,6 +26,19 @@ Each player will create a character defining the following information:
 
 > The player can write just a few words or numbers on the PC sheet and make a better description in the side notes.
 
+## STATS
+
+An important part of character creation is defining stats, which, depending on the challenge faced, will be used as modifiers for dice rolls. There are four types, according to their area of concern:
+
+- **STRENGTH**: Applicable to everything that requires physical effort.
+- **DEXTERITY**: Applicable to everything that requires physical finesse.
+- **INTELLIGENCE**: Applicable to everything that requires knowledge or thinking.
+- **CHARISMA**: Applicable to everything that requires social interaction.
+
+>One of these two methods must be chosen to define the amount of points to distribute among the STATs:
+>- **Generic**: 4 points are distributed to suit the player preferences.
+>- **Lucky?**: A roll of 1d6 is made, and the obtained value is distributed.
+
 # ACTIONS
 
 In general, all possible actions can be put into one of these three categories:
@@ -62,7 +75,7 @@ Also, the environment, race, profession, background, faction, goal, etc. can gen
 
 All these kind of considerations can be proposed by both the players as well the storyteller, although their application is on the discretion of the last one. Can be specified in any other form, whatever you previously agreed.
 
-## TACTICAL COLABORATION
+## TACTICAL COLLABORATION
 
 It can happen that, due to the nature of the problem, a player wants to help another because he has better **stats** in the required attitude. In this case, both roll, but only one die each, and the **conditioners** of each character are applied to the values of their respective dice.
 
