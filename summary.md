@@ -62,6 +62,12 @@ Also, the environment, race, profession, background, faction, goal, etc. can gen
 
 All these kind of considerations can be proposed by both the players as well the storyteller, although their application is on the discretion of the last one. Can be specified in any other form, whatever you previously agreed.
 
+## TACTICAL COLABORATION
+
+It can happen that, due to the nature of the problem, a player wants to help another because he has better **stats** in the required attitude. In this case, both roll, but only one die each, and the **conditioners** of each character are applied to the values of their respective dice.
+
+> For example, a player faces a puzzle, and one of his companions, with virtuous intelligence, decides to help him.
+
 ## FAVOR POINTS
 
 On certain occasions, one of the following cases may occur:
