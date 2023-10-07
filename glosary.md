@@ -1,4 +1,4 @@
-**Armor**: Each piece of armor adds one point of protection (PP) to the related body part.
+**Armor**: Each piece of armor adds points of protection (PP) to the related body part.
 
 **DP** (Damage Point): Each parts of the body can get until 3 (three) DP, after that, the PC will lose the limb, or become unconscious (in thorax), or die (in head).
 
