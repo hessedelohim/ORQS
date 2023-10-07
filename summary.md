@@ -1,4 +1,4 @@
-# ORQS
+****# ORQS
 
 ORQS is a rules-lite system to get started with TTRPG games. This is designed to be like a (*very*) basic framework on which everyone can build a personal core-book, for specific groups or games. Each "*rule*" is supposed to be considered in context, though they are also supposed to be flexible enough, to help the player not only understand, but also enjoy the experience of the dynamics of the TTRPGs.
 
@@ -24,7 +24,7 @@ Each player will create a character defining the following information:
 
 **GOAL**: What the PC want most and what fight for. Their decisions and actions tend to this.
 
-> The player can write just a few words or numbers on the PC sheet and make a better description in the side notes.
+> *The player can write just a few words or numbers on the PC sheet and make a better description in the side notes.*
 
 ## STATS
 
@@ -79,7 +79,7 @@ All these kind of considerations can be proposed by both the players as well the
 
 It can happen that, due to the nature of the problem, a player wants to help another because he has better **stats** in the required attitude. In this case, both roll, but only one die each, and the **conditioners** of each character are applied to the values of their respective dice.
 
-> For example, a player faces a puzzle, and one of his companions, with virtuous intelligence, decides to help him.
+> *For example, a player faces a puzzle, and one of his companions, with virtuous intelligence, decides to help him.*
 
 ## FAVOR POINTS
 
@@ -91,7 +91,7 @@ On certain occasions, one of the following cases may occur:
 
 To solve it the players can choose to spend one of their **favor point** (FP), this will imply (*as the storyteller determined*), a re-roll of one dice, of both, or a guaranteed success. For Epic Action, everyone need to spend 1 FP.
 
-> The PC will starts with 3 FP, and can earn one more accomplishing a objective that get it closer to the goal (*according to the storyteller's criteria*).
+> *The PC will starts with 3 FP, and can earn one more accomplishing a objective that get it closer to the goal (*according to the storyteller's criteria*).*
 
 # COMBAT & HEALTH
 
@@ -114,17 +114,19 @@ At certain times it may be the case that the PC receives a blessing in some way.
 
 # INVENTORY
 
-The PC has its inventory divided into two parts of 6 slots each, in one it can carry weapons and pieces of armor. In the other various items. Each PC start without armor, but with 1 weapon and 2 items of free choice.
+The PC has its inventory divided into two parts, each with of 6 slots. One category will be weapons & armor, and the other items.
 
 **WEAPON**: The type of weapon does not change the "*amount of damage*" generated, but it does affect the related stat depending on the action to be performed, the storyteller will decide which one to apply. For example, a bow can be used to shoot an arrow (DEX) or to hit someone (STR).
 
-> Ammunition does not count towards slots and is considered infinite (unless otherwise agreed).
+> *Ammunition does not count towards slots and is considered infinite (unless otherwise agreed).*
 
-**ARMOR**: Each piece of armor adds one point of protection (PP) to the related body part. The total PP (*written inside the corresponding circle*) will be subtracted from the attack CTV.
+**ARMOR**: Each piece of armor adds points of protection (PP) to the related body part. The total PP (*written inside the corresponding body part circle*) will be subtracted from the attack CTV.
 
 **ITEMS**: Any other item that isn't armor or a weapon (at least one that can be directly considered one). It can be usable (*rope, torch, etc*), consumable (*food, potions, etc*) or unimportant (*a piece of stone*).
 
-> Stackable or bulk items count as one slot.
+> *Stackable or bulk items count as one slot.*  
+
+> **Note**: *It is suggested that when creating PC, they do not acquire armor, but a weapon and two items of player choice*.
 
 # SKILLS
 
