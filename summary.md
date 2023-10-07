@@ -130,13 +130,30 @@ The PC has its inventory divided into two parts, each with of 6 slots. One categ
 
 # SKILLS
 
-Each PC will start with an special ability of their choice. They can then learn more, up to a limit of 6. Skills may or may not be checked, and as a general rule, can be used only once per combat, or outside of these, approximately "once a day" (*at the storyteller's discretion*).
+The PC may have knowledge of certain skills, which will allow them to perform special actions or perform better in certain situations. They can then up to a limit of 6. Skills may or may not be checked, and as a general rule, can be used only once per combat, or outside of these, approximately "*once a day*" (*at the storyteller's discretion*).
+
+They can also be upgraded through specializations, that is, the PC can be trained to improve their performance in that area of concern. Always within the context and with coherence regarding the construction of the world.
+
+> *An example would be finding an instruction book or becoming tutored by a wiser NPC.*
+
+According to the level of training achieved, the skills will function act as conditions for the RTV in the following way:
+- +1 for Basic Skill (*e.g. combat with edged weapons*)
+- +2 for Specialized Skill (*e.g. fighting with Swords*)
+- +3 for Mastered skills (*e.g. use of a Gladium*)
+
+If it were the case, they will do so to the greatest degree possible according to the given conditions, that is, they will only use the bonus corresponding to the level of training applicable at that time.
+
+> *A warrior specialized in the use of two-handed warhammers will obtain a +3 benefit as long as he fights with that weapon, but if in a situation he finds himself using a log for this purpose, he can only apply a +1 (combat with blunt weapon).*
 
 # SPECIAL CONSIDERATION
 
+### <ins>***Skills***</ins>
+
+All the skills named in this guide are merely as an example, each player can choose theirs according to their personal taste or as they consider appropriate for the PC, always at the discretion of the storyteller (*who will take care of coherence and balance*).
+
 ### <ins>***Magic***</ins>
 
-In principle, magic does not require any ingredient, catalyst or energy, it is enough to know the spell to be able to use it. They count as skills in terms of their frequency and manner of use. Magical weapons (*staff, wand, etc*) are considered as such and are assigned to the corresponding slots. They are assigned a single "**magic attack**", the PC must lay down a minimal description of its operation (*effect, element, etc*).
+In principle, magic does not require any ingredient, catalyst or energy, it is enough to know the spell to be able to use it. They count as skills in terms of "skill-slot", their frequency and manner of use. Magical weapons (*staff, wand, etc*) are considered as such and are assigned to the corresponding slots. They are assigned a single "**magic attack**", the PC must lay down a minimal description of its operation (*effect, element, etc*).
 
 ### <ins>***Economy***</ins>
 
