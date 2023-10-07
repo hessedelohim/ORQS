@@ -1,5 +1,9 @@
 **Armor**: Each piece of armor adds points of protection (PP) to the related body part.
 
+**Conditioner**: All those things that condition an action, whether or not it may benefit it, will apply a numerical value. (eg. skills, enviroment, natural weakness, etc.)
+
+**CTV** (Check Total Value): Is the final score resulting from adding all the conditioners to the RTV.
+
 **DP** (Damage Point): Each parts of the body can get until 3 (three) DP, after that, the PC will lose the limb, or become unconscious (in thorax), or die (in head).
 
 **Magic Attack**: Attack performed with spell, using a magic item
@@ -14,7 +18,7 @@
 
 **RTV** (Roll Total Value): The numerical result of adding the numbers of both dice, with no bonuses.
 
-**STAT**: An attribute that helps define the PC, and is represented numerically (ex. if the PC have more strength than normal = STR +1)
+**STAT**: An attribute that helps define the PC, and is represented numerically (eg. if the PC have more strength than normal = STR +1)
 
 **Storyteller**: Mostly know as GM (Game Master) is the person in charge of being the referee of the game. Many of the final decision are on his hands (or mind?).
 
