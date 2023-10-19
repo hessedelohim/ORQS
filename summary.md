@@ -108,10 +108,6 @@ Every time an attack (*from the PC or an enemy*) achieves a success, it will gen
 
 When a body part get the third hit, the storyteller must designate a **injury** and its consequence (*this can be a **conditioner** too*). After being reanimated, the PC also will get an additional **injury**, past 6 injures, die permanently.
 
-## **BLESSINGS & CURSES**
-
-At certain times it may be the case that the PC receives a blessing in some way. These are permanent conditioners that can apply to a STAT (*ex. +1 dexterity*), an action (*ex. all dagger attacks*), or a particular situation (*ex. when it's night*). Curses are equivalent, but with negative effects. The PC can have up to 3 of each.
-
 # INVENTORY
 
 The PC has its inventory divided into two parts, each with of 6 slots. One category will be weapons & armor, and the other items.
@@ -144,6 +140,10 @@ According to the level of training achieved, the skills will function act as con
 If it were the case, they will do so to the greatest degree possible according to the given conditions, that is, they will only use the bonus corresponding to the level of training applicable at that time.
 
 > *A warrior specialized in the use of two-handed warhammers will obtain a +3 benefit as long as he fights with that weapon, but if in a situation he finds himself using a log for this purpose, he can only apply a +1 (combat with blunt weapon).*
+
+# **BLESSINGS & CURSES**
+
+At certain times it may be the case that the PC receives a blessing in some way. These are permanent conditioners that can apply to a STAT (*ex. +1 dexterity*), an action (*ex. all dagger attacks*), or a particular situation (*ex. when it's night*). Curses are equivalent, but with negative effects. The PC can have up to 3 of each.
 
 # SPECIAL CONSIDERATION
 
